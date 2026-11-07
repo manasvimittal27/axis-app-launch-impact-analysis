@@ -1,0 +1,8 @@
+# Raw challenge dataset is not redistributed
+*.csv
+
+# Notebook and OS clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+~$*
